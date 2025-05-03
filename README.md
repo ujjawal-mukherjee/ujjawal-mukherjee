@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ujjawal-mukherjee](https://github.com/ujjawal-mukherjee)
 
-- 💬 Ask me about **React,Solidity,Node.js,MongoDB.SQL**
+- 💬 Ask me about **React,Solidity,Node.js,MongoDB,SQL**
 
 - 📫 How to reach me **ujjawalkumarmukherjee335@gmail.com**
 
