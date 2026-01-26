@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Mukherjee</h1>
 <h3 align="center">A passionate Blockchain, MERN Stack, and Generative AI developer from India, dedicated to building innovative, scalable, and intelligent solutions. Skilled in developing decentralized applications (dApps), full-stack web platforms, and AI-powered systems using state-of-the-art tools and frameworks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawal-mukherjee" alt="ujjawal-mukherjee" /></a> </p>
+
 
 - 🔭 I’m currently working on [Chaintalk(A Decentralised Social Networking site)](https://github.com/ujjawal-mukherjee/Chatapp)
 
