@@ -4,6 +4,7 @@
 
 
 - 🔭 I’m currently working on [Chaintalk(A Decentralised Social Networking site)](https://github.com/ujjawal-mukherjee/Chatapp)
+- Updated version-https://github.com/ujjawal-mukherjee/Chaintalksocialnetwork
 
 - 🌱 I’m currently learning **Next.js,Testing smart contracts.**
 
